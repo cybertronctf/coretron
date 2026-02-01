@@ -1,1 +1,1 @@
-print("coretron INSERT")
+print("coretron UPDATE")
